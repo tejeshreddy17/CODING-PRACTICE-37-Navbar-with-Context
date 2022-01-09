@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.dark-home-background {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.dark-theme {
+  background-color: #000000;
+}
+.home-image-style {
+  height: 105px;
+}
+.dark-home-heading {
+  color: white;
+}

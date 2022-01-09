@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.navbar-background {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.dark-navbar {
+  background-color: #333333;
+}
+.logo-style {
+  height: 55px;
+  cursor: pointer;
+}
+.link-item {
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #171f46;
+  font-weight: bold;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  padding-left: 0px;
+  align-items: center;
+  justify-content: space-between;
+}
+.dark-li {
+  color: white;
+}
